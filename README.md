@@ -7,6 +7,7 @@ Some Features of this project include:
 - Linear Regression model
 - Custom price prediction for new listings
 Try Running it Yourself:
-Open in Colab: https://colab.research.google.com/drive/15Rp1gh-jW7K0gkq18pH069ANaSB3FT2B#scrollTo=4kleqikKfKBl
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lloyduk/airbnb-price-predictor/blob/main/Airbnb_Price_Predictor.ipynb)
+
 
 
